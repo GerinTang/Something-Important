@@ -1,6 +1,6 @@
 # Something-Important
 
-## tutorials
+## TUTORIALS
 
 [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
 
@@ -12,7 +12,7 @@
 
 [Why does Julia work so well?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
 
-## datasets
+## DATASETS
 
 [Spiking datasets](https://www.garrickorchard.com/datasets)
 
