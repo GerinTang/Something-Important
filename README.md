@@ -12,6 +12,8 @@
 
 [Why does Julia work so well?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
 
+[10 important GAN paper you must read](https://zhuanlan.zhihu.com/p/63430681)
+
 ## DATASETS
 
 [Spiking datasets](https://www.garrickorchard.com/datasets)
