@@ -1,5 +1,13 @@
 # Something-Important
 
+## PEOPLE DETECTION
+
+[行人检测数据集](https://zhuanlan.zhihu.com/p/31836357)
+
+[物体检测的轮回: anchor-based 与 anchor-free](https://zhuanlan.zhihu.com/p/62372897)
+
+[Guided Anchoring: 物体检测器也能自己学 Anchor](https://zhuanlan.zhihu.com/p/55854246)
+
 ## TUTORIALS
 
 [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
