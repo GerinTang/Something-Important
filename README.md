@@ -10,6 +10,8 @@
 
 ## TUTORIALS
 
+[给初学者的 Jupyter Notebook 教程](https://juejin.im/post/5af8d3776fb9a07ab7744dd0)
+
 [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
 
 [Google machine learning tutorial](https://developers.google.cn/machine-learning/crash-course/)
