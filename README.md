@@ -47,3 +47,7 @@
 [PyCharm for Anaconda](https://www.jetbrains.com/pycharm/promo/anaconda/)
 
 [pytorch中查看gpu信息](https://blog.csdn.net/nima1994/article/details/83001910)
+
+[PyCharm运行按钮试试灰色的](https://blog.csdn.net/suraelax/article/details/85770215)
+
+[windows安装pytorch配置pycharm](https://blog.csdn.net/WJ_MeiMei/article/details/84141521)
