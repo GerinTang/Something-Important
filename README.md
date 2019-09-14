@@ -12,6 +12,8 @@
 
 [给初学者的 Jupyter Notebook 教程](https://juejin.im/post/5af8d3776fb9a07ab7744dd0)
 
+[Jupyter Notebook 快速入门（上）](https://codingpy.com/article/getting-started-with-jupyter-notebook-part-1/)
+
 [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
 
 [Google machine learning tutorial](https://developers.google.cn/machine-learning/crash-course/)
@@ -29,3 +31,19 @@
 [Spiking datasets](https://www.garrickorchard.com/datasets)
 
 [Datasets for machine learning](https://www.datasetlist.com/)
+
+## SOFTWARE INSTALLATION
+
+[WIn10+Anaconda 环境下安装 PyTorch 避坑指南](https://redstonewill.com/1948/)
+
+[Windows10+GPU版 pytorch 安装](https://blog.csdn.net/cmat2/article/details/80407059)
+
+[Pytorch如何更新版本与卸载，使用pip,conda更新卸载Pytorch](https://ptorch.com/news/37.html)
+
+[浅谈将Pytorch模型从CPU转换成GPU](https://zhuanlan.zhihu.com/p/31936740)
+
+[windows10下安装GPU版pytorch简明教程](https://zhuanlan.zhihu.com/p/54350088)
+
+[PyCharm for Anaconda](https://www.jetbrains.com/pycharm/promo/anaconda/)
+
+[pytorch中查看gpu信息](https://blog.csdn.net/nima1994/article/details/83001910)
