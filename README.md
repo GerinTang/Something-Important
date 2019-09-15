@@ -8,6 +8,8 @@
 
 [Guided Anchoring: 物体检测器也能自己学 Anchor](https://zhuanlan.zhihu.com/p/55854246)
 
+[目标检测模型的评估指标mAP详解(附代码）](https://zhuanlan.zhihu.com/p/37910324)
+
 ## TUTORIALS
 
 [给初学者的 Jupyter Notebook 教程](https://juejin.im/post/5af8d3776fb9a07ab7744dd0)
