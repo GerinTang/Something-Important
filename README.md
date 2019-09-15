@@ -26,6 +26,8 @@
 
 [10 important GAN paper you must read](https://zhuanlan.zhihu.com/p/63430681)
 
+[PyTorch 深度学习:60分钟快速入门](https://blog.csdn.net/u014630987/article/details/78669051)
+
 ## DATASETS
 
 [Spiking datasets](https://www.garrickorchard.com/datasets)
