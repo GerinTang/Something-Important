@@ -10,6 +10,10 @@
 
 [目标检测模型的评估指标mAP详解(附代码）](https://zhuanlan.zhihu.com/p/37910324)
 
+[干货 | 目标检测入门](https://zhuanlan.zhihu.com/p/34142321)
+
+[CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59398728)
+
 ## TUTORIALS
 
 [给初学者的 Jupyter Notebook 教程](https://juejin.im/post/5af8d3776fb9a07ab7744dd0)
