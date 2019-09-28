@@ -14,6 +14,8 @@
 
 [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59398728)
 
+[CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
+
 ## TUTORIALS
 
 [给初学者的 Jupyter Notebook 教程](https://juejin.im/post/5af8d3776fb9a07ab7744dd0)
