@@ -16,6 +16,8 @@
 
 [CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
+[Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
+
 ## IMAGE PROCESSING
 
 [Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
