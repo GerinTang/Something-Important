@@ -1,7 +1,13 @@
 # Something-Important
 
-## Pytorch
-[入门和上手：代码理解](https://zhuanlan.zhihu.com/p/86586480)
+## PENDING READ
+[Pytorch入门和上手：代码理解](https://zhuanlan.zhihu.com/p/86586480)
+
+[CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
+
+[Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
+
+[发给Dr. Zhu: Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## OBJECT DETECTION
 
@@ -17,17 +23,12 @@
 
 [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59398728)
 
-[CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
-
-[Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
-
 [FCOS anchor-free 目标检测源码](https://github.com/tianzhi0549/FCOS/blob/master/README.md?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616&from=singlemessage&isappinstalled=0)
 
 [mask r-cnn源码](https://github.com/facebookresearch/maskrcnn-benchmark)
 
 ## IMAGE PROCESSING
 
-[Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## TUTORIALS
 
