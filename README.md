@@ -1,5 +1,8 @@
 # Something-Important
 
+## Pytorch
+[入门和上手：代码理解](https://zhuanlan.zhihu.com/p/86586480)
+
 ## OBJECT DETECTION
 
 [行人检测数据集](https://zhuanlan.zhihu.com/p/31836357)
