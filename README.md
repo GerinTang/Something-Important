@@ -7,7 +7,7 @@
 
 [Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
 
-[发给Dr. Zhu: Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
+[试一试忆阻器怎么做 Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## OBJECT DETECTION
 
