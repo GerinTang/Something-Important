@@ -8,7 +8,7 @@
 [Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
 
 ## NEW IDEA
-[Human Object Interaction任务](https://zhuanlan.zhihu.com/p/83519933?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
+[Human Object Interaction任务，可以直接移植object detection算法实现](https://zhuanlan.zhihu.com/p/83519933?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## OBJECT DETECTION
 
