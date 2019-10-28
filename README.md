@@ -1,8 +1,6 @@
 # Something-Important
 
 ## PENDING READ
-[Pytorch入门和上手：代码理解](https://zhuanlan.zhihu.com/p/86586480)
-
 [CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 [Adaptively Connected Neural Networks](https://zhuanlan.zhihu.com/p/84205427?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
@@ -51,6 +49,8 @@
 [10 important GAN paper you must read](https://zhuanlan.zhihu.com/p/63430681)
 
 [PyTorch 深度学习:60分钟快速入门](https://blog.csdn.net/u014630987/article/details/78669051)
+
+[Pytorch入门和上手：代码理解](https://zhuanlan.zhihu.com/p/86586480)
 
 ## DATASETS
 
