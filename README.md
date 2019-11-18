@@ -6,6 +6,8 @@
 ## NEW IDEA
 [Human Object Interaction任务，可以直接移植object detection算法实现](https://zhuanlan.zhihu.com/p/83519933?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
+[关于全卷积神经网络的思考](https://zhuanlan.zhihu.com/p/89954785)
+
 ## OBJECT DETECTION
 
 [行人检测数据集](https://zhuanlan.zhihu.com/p/31836357)
