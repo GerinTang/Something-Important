@@ -3,6 +3,8 @@
 ## PENDING READ
 [关于全卷积神经网络的思考](https://zhuanlan.zhihu.com/p/89954785)
 
+TPAMI_PCL: Proposal Cluster Learning for Weakly Supervised Object Detection
+
 ## NEW IDEA
 [Fish4knowledge数据集，根据Tiantian的工作移植anchor-free架构](http://groups.inf.ed.ac.uk/f4k/index.html)
 
