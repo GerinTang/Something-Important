@@ -11,6 +11,8 @@ TIP_Semi-Supervised Human Detection via Region Proposal Networks Aided by Verifi
 
 TIP_Progressive Object Transfer Detection
 
+TMM_Adaptive Convolution for Object Detection
+
 ## NEW IDEA
 [Fish4knowledge数据集，根据Tiantian的工作移植anchor-free架构](http://groups.inf.ed.ac.uk/f4k/index.html)
 
