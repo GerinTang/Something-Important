@@ -5,6 +5,12 @@
 
 TPAMI_PCL: Proposal Cluster Learning for Weakly Supervised Object Detection
 
+TIP_50 FPS Object-Level Saliency Detection via Maximally Stable Region
+
+TIP_Semi-Supervised Human Detection via Region Proposal Networks Aided by Verification
+
+TIP_Progressive Object Transfer Detection
+
 ## NEW IDEA
 [Fish4knowledge数据集，根据Tiantian的工作移植anchor-free架构](http://groups.inf.ed.ac.uk/f4k/index.html)
 
