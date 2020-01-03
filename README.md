@@ -1,7 +1,9 @@
 # Something-Important
 
 ## PENDING READ
-[关于全卷积神经网络的思考](https://zhuanlan.zhihu.com/p/89954785)
+
+[试一试忆阻器怎么做 Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
+
 
 ## NEW IDEA
 [Fish4knowledge数据集，根据Tiantian的工作移植anchor-free架构](http://groups.inf.ed.ac.uk/f4k/index.html)
@@ -31,7 +33,6 @@
 
 ## IMAGE PROCESSING
 
-[试一试忆阻器怎么做 Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## TUTORIALS
 
