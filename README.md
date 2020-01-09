@@ -1,9 +1,9 @@
 # Something-Important
 
 ## PENDING READ
+[Transfer Learning](https://www.zhihu.com/question/41979241)
 
 ## NEW IDEA
-[试一试忆阻器怎么做 Image registration 图像配准](https://zhuanlan.zhihu.com/p/80985475?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
 ## OBJECT DETECTION
 
