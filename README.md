@@ -1,6 +1,8 @@
 # Something-Important
 
 ## PENDING READ
+[More about Attention](https://zhuanlan.zhihu.com/p/106662375?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
+
 [Transfer Learning](https://www.zhihu.com/question/41979241)
 
 ## NEW IDEA
