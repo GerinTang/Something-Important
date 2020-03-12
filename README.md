@@ -59,6 +59,7 @@
 [Datasets for machine learning](https://www.datasetlist.com/)
 
 ## SOFTWARE INSTALLATION
+[强推！国内实用镜像安装tf和torch，尤其在清华和科大镜像失效时](https://blog.csdn.net/qq_33039859/article/details/81328805)
 
 [WIn10+Anaconda 环境下安装 PyTorch 避坑指南](https://redstonewill.com/1948/)
 
