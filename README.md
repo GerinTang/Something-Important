@@ -5,7 +5,6 @@
 
 [Transfer Learning](https://www.zhihu.com/question/41979241)
 
-## NEW IDEA
 
 ## OBJECT DETECTION
 
