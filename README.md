@@ -1,12 +1,10 @@
 # Something-Important
 
 ## PENDING READ
-[More about Attention](https://zhuanlan.zhihu.com/p/106662375?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
 
-[Transfer Learning](https://www.zhihu.com/question/41979241)
+[Intro to Graph NN/Embedding/CN](https://zhuanlan.zhihu.com/p/104631376?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
 
-
-## OBJECT DETECTION
+## OBJECT DETECTION/FRAMEWORK
 
 [行人检测数据集](https://zhuanlan.zhihu.com/p/31836357)
 
@@ -26,7 +24,9 @@
 
 [CornerNet-Lite，基于关键点的目标检测算法](https://zhuanlan.zhihu.com/p/78757127?utm_source=qq&utm_medium=social&utm_oi=52790470639616)
 
-## IMAGE PROCESSING
+[More about Attention](https://zhuanlan.zhihu.com/p/106662375?utm_source=wechat_session&utm_medium=social&utm_oi=52790470639616)
+
+[Transfer Learning](https://www.zhihu.com/question/41979241)
 
 
 ## TUTORIALS
