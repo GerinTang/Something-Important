@@ -6,6 +6,8 @@
 
 ## OBJECT DETECTION/FRAMEWORK
 
+[数据增强](https://zhuanlan.zhihu.com/p/95741971)
+
 [行人检测数据集](https://zhuanlan.zhihu.com/p/31836357)
 
 [物体检测的轮回: anchor-based 与 anchor-free](https://zhuanlan.zhihu.com/p/62372897)
